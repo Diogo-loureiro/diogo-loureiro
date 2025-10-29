@@ -313,7 +313,7 @@ I'm always interested in discussing:
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/diogo-loureiro/diogo-loureiro/blob/output/github-contribution-grid-snake.svg)
+!(https://github.com/diogo-loureiro/diogo-loureiro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
