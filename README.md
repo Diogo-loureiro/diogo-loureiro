@@ -237,6 +237,18 @@ Supply Chain Management
 
 ---
 
+<!-- SKILLS ANIMATION - Cole isso em uma seção do seu README se quiser adicionar animação -->
+
+<div align="center">
+
+## ⚡ Skills Matrix
+
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,vscode,jupyter,docker,linux,bash,aws,azure,gcp" />
+
+</div>
+
+---
+
 ## 🌍 Languages
 
 - 🇬🇧 **English:** Advanced (C1-C2)
