@@ -21,23 +21,17 @@
 
 ---
 
-<!-- BOTÃO PARA VERSÃO MINIMALISTA -->
+<!-- TOGGLE PARA VERSÃO MINIMALISTA -->
 <div align="center">
 
 <details>
-<summary>📋 <b>Ver versão minimalista do perfil</b> (clique para expandir)</summary>
+<summary>📋 <b>Clique aqui para ver versão resumida/minimalista</b></summary>
 
 <br>
 
-## Diogo Loureiro
-
-**Data Engineer | Analytics Architect | Supply Chain Specialist**
-
-📍 Aracaju, Brazil | 📧 digopl@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/diogo-loureiro)
-
 ---
 
-### About
+## About
 
 I build data solutions that drive business decisions. With 14+ years specializing in supply chain analytics, I transform complex operational data into predictive models, automated pipelines, and actionable insights.
 
@@ -45,23 +39,26 @@ I build data solutions that drive business decisions. With 14+ years specializin
 
 ---
 
-### Core Skills
+## Core Skills
 
 **Data & Analytics**  
-Python • SQL • Pandas • NumPy • Scikit-Learn • Statistical Modeling • Machine Learning
+Python • SQL • R • Pandas • NumPy • Scikit-Learn • Statistical Modeling • Machine Learning
 
 **Visualization & BI**  
 Power BI • Tableau • Alteryx • Advanced Excel • DAX • Power Query
 
+**Data Engineering**  
+Apache Spark • Airflow • Docker • Kubernetes • PostgreSQL • MySQL • MongoDB
+
+**Cloud Platforms**  
+AWS • Azure • Snowflake • Databricks
+
 **Enterprise Systems**  
 SAP • Oracle • JD Edwards • Logility • IBM Oniqua • SAP APO/IBP
 
-**Domain Expertise**  
-Demand Forecasting • Inventory Optimization • S&OP • Supply Chain Planning
-
 ---
 
-### What I Do
+## What I Do
 
 - 📊 Design and implement predictive forecasting models
 - 🔄 Build ETL pipelines and data automation frameworks
@@ -71,20 +68,42 @@ Demand Forecasting • Inventory Optimization • S&OP • Supply Chain Planning
 
 ---
 
-### Education
+## Experience Highlights
+
+**Solution Consultant** @ Aptean (Logility/Garvis) | 2022 - Present  
+Leading analytics implementations across 50+ projects, improving forecast accuracy 10-30%
+
+**Order Fulfillment Specialist** @ FANUC Corporation | 2021 - 2022  
+Reduced inventory 12% while maintaining 97% service level through data-driven optimization
+
+**Material Planner** @ Bobcat EMEA | 2019 - 2021  
+Improved forecast accuracy 14% and boosted fill rate to 97.2% through advanced analytics
+
+**Supply & Demand Planner** @ Vale & Votorantim | 2014 - 2019  
+Delivered €600K+ in savings through predictive modeling and process optimization
+
+---
+
+## Education
 
 🎓 **MBA in Data Science and Analytics** — University of São Paulo (USP), 2023  
 🎓 **Bachelor in Business Administration** — Federal University of Sergipe (UFS), 2011
 
 ---
 
-### Languages
+## Languages
 
 🇬🇧 English (C1-C2) • 🇧🇷 Portuguese (Native) • 🇪🇸 Spanish (B1)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=diogo-loureiro&color=blue)
+## Let's Connect
+
+**📧 Email:** digopl@gmail.com  
+**🔗 LinkedIn:** [linkedin.com/in/diogo-loureiro](https://www.linkedin.com/in/diogo-loureiro)  
+**📍 Location:** Aracaju, Brazil (open to remote opportunities worldwide)
+
+---
 
 </details>
 
@@ -132,10 +151,15 @@ class DataEngineer:
 ### **Core Data Engineering & Analytics**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### **Business Intelligence & Visualization**
 
@@ -144,16 +168,25 @@ class DataEngineer:
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge&logo=alteryx&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### **Enterprise Systems & Platforms**
+### **Machine Learning & Data Science**
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### **Cloud & Enterprise Platforms**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### **Enterprise Systems**
 
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### **Cloud & Data Platforms**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
@@ -277,34 +310,11 @@ Supply Chain Management
 
 ---
 
-<!-- GITHUB ACTIVITY GRAPH -->
-<div align="center">
+## 📈 Contribution Activity
 
-## 📈 Contribution Graph
+<div align="center">
 
 [![Diogo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diogo-loureiro&theme=react-dark&hide_border=true)](https://github.com/diogo-loureiro)
-
-</div>
-
----
-
-<!-- SKILLS MATRIX ATUALIZADA - Ferramentas gerais de dados -->
-<div align="center">
-
-## ⚡ Data Engineering & Analytics Toolkit
-
-<img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,mongodb,redis,docker,kubernetes,github,gitlab,vscode,anaconda" />
-
-### Additional Tools & Technologies
-
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 </div>
 
@@ -359,52 +369,3 @@ I'm always interested in discussing:
 ![Profile Views](https://komarev.com/ghpvc/?username=diogo-loureiro&color=brightgreen&style=for-the-badge)
 
 </div>
-
----
-
-<!-- PINNED REPOSITORIES CARDS - Customize com seus repos -->
-<div align="center">
-
-## 📌 Featured Repositories
-
-<a href="https://github.com/diogo-loureiro/demand-forecasting-ml">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diogo-loureiro&repo=demand-forecasting-ml&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/diogo-loureiro/supply-chain-analytics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diogo-loureiro&repo=supply-chain-analytics&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/diogo-loureiro/inventory-optimization">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diogo-loureiro&repo=inventory-optimization&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/diogo-loureiro/data-automation-toolkit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diogo-loureiro&repo=data-automation-toolkit&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
----
-
-<!-- SNAKE ANIMATION - Eating contributions -->
-<div align="center">
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/diogo-loureiro/diogo-loureiro/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<!-- JOKES CARD - Fun element -->
-<div align="center">
-
-## 😄 Dev Joke of the Day
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
-
-</div>
-
----
