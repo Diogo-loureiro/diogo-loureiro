@@ -1,0 +1,132 @@
+<!-- SKILLS ANIMATION - Cole isso em uma seção do seu README se quiser adicionar animação -->
+
+<div align="center">
+
+## ⚡ Skills Matrix
+
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,vscode,jupyter,docker,linux,bash,aws,azure,gcp" />
+
+</div>
+
+---
+
+<!-- TYPING SVG ANIMATION - Adicione ao topo do README para efeito de digitação -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Analytics+Architect;14%2B+Years+in+Supply+Chain+Analytics;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Transforming+Data+into+Business+Value" alt="Typing SVG" />
+</div>
+
+---
+
+<!-- GITHUB ACTIVITY GRAPH -->
+<div align="center">
+
+## 📈 Contribution Graph
+
+[![Diogo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diogo-loureiro&theme=react-dark&hide_border=true)](https://github.com/diogo-loureiro)
+
+</div>
+
+---
+
+<!-- GITHUB STREAK STATS -->
+<div align="center">
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diogo-loureiro&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<!-- TROPHY SHOWCASE -->
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=diogo-loureiro&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- METRICS EMBED - Requer GitHub Action setup -->
+<!-- 
+Para ativar métricas avançadas:
+1. Crie um token GitHub (Settings > Developer settings > Personal access tokens)
+2. Adicione aos secrets do repositório como METRICS_TOKEN
+3. Configure GitHub Actions com o arquivo abaixo
+-->
+
+---
+
+<!-- PINNED REPOSITORIES CARDS - Customize com seus repos -->
+<div align="center">
+
+## 📌 Featured Repositories
+
+<a href="https://github.com/diogo-loureiro/demand-forecasting-ml">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diogo-loureiro&repo=demand-forecasting-ml&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/diogo-loureiro/supply-chain-analytics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diogo-loureiro&repo=supply-chain-analytics&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/diogo-loureiro/inventory-optimization">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diogo-loureiro&repo=inventory-optimization&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/diogo-loureiro/data-automation-toolkit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diogo-loureiro&repo=data-automation-toolkit&theme=radical&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+<!-- WAKATIME STATS - Requer integração com Wakatime -->
+<!--
+<div align="center">
+
+## ⏱️ Weekly Coding Activity
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=diogo-loureiro&theme=radical&hide_border=true&layout=compact)
+
+</div>
+-->
+
+---
+
+<!-- SNAKE ANIMATION - Eating contributions -->
+<div align="center">
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/diogo-loureiro/diogo-loureiro/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<!-- JOKES CARD - Fun element -->
+<div align="center">
+
+## 😄 Dev Joke of the Day
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
+
+</div>
+
+---
+
+<!-- SPOTIFY NOW PLAYING - Requer setup do Spotify -->
+<!--
+<div align="center">
+
+## 🎵 Spotify Playing
+
+[![Spotify](https://novatorem-diogo-loureiro.vercel.app/api/spotify)](https://open.spotify.com/user/seu-username)
+
+</div>
+-->
