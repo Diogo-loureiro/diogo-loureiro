@@ -24,7 +24,6 @@
 <!-- TOGGLE PARA VERSÃO MINIMALISTA -->
 <div align="center">
 
-<details>
 <summary>📋 <b>Clique aqui para ver versão resumida/minimalista</b></summary>
 
 <br>
@@ -104,8 +103,6 @@ Delivered €600K+ in savings through predictive modeling and process optimizati
 **📍 Location:** Aracaju, Brazil (open to remote opportunities worldwide)
 
 ---
-
-</details>
 
 </div>
 
