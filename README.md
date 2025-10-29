@@ -7,8 +7,6 @@
 
 <div align="center">
 
-<!-- Section start -->
-
 # 👋 Diogo Loureiro
 
 ### Data-Driven Supply Chain Engineer | Analytics Architect | ML Enthusiast
@@ -18,6 +16,77 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-loureiro)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digopl@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Aracaju,_Brazil-green?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+
+</div>
+
+---
+
+<!-- BOTÃO PARA VERSÃO MINIMALISTA -->
+<div align="center">
+
+<details>
+<summary>📋 <b>Ver versão minimalista do perfil</b> (clique para expandir)</summary>
+
+<br>
+
+## Diogo Loureiro
+
+**Data Engineer | Analytics Architect | Supply Chain Specialist**
+
+📍 Aracaju, Brazil | 📧 digopl@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/diogo-loureiro)
+
+---
+
+### About
+
+I build data solutions that drive business decisions. With 14+ years specializing in supply chain analytics, I transform complex operational data into predictive models, automated pipelines, and actionable insights.
+
+**Current focus:** Advanced forecasting models, inventory optimization, and end-to-end analytics implementation.
+
+---
+
+### Core Skills
+
+**Data & Analytics**  
+Python • SQL • Pandas • NumPy • Scikit-Learn • Statistical Modeling • Machine Learning
+
+**Visualization & BI**  
+Power BI • Tableau • Alteryx • Advanced Excel • DAX • Power Query
+
+**Enterprise Systems**  
+SAP • Oracle • JD Edwards • Logility • IBM Oniqua • SAP APO/IBP
+
+**Domain Expertise**  
+Demand Forecasting • Inventory Optimization • S&OP • Supply Chain Planning
+
+---
+
+### What I Do
+
+- 📊 Design and implement predictive forecasting models
+- 🔄 Build ETL pipelines and data automation frameworks
+- 📈 Create executive dashboards and BI solutions
+- 🎯 Optimize supply chain planning processes
+- 🤖 Develop custom analytics tools and algorithms
+
+---
+
+### Education
+
+🎓 **MBA in Data Science and Analytics** — University of São Paulo (USP), 2023  
+🎓 **Bachelor in Business Administration** — Federal University of Sergipe (UFS), 2011
+
+---
+
+### Languages
+
+🇬🇧 English (C1-C2) • 🇧🇷 Portuguese (Native) • 🇪🇸 Spanish (B1)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=diogo-loureiro&color=blue)
+
+</details>
 
 </div>
 
@@ -147,7 +216,7 @@ Advanced statistical and machine learning models for demand forecasting across m
 ### 📈 **Analytics Automation Framework**
 Python-based framework for automating data extraction, transformation, and reporting processes — reducing manual work by 70%+ while improving data accuracy.
 
-**Tech Stack:** Python , SQL, Power Query, Excel VBA, APIs
+**Tech Stack:** Python, SQL, Power Query, Excel VBA, APIs
 
 ---
 
@@ -219,13 +288,23 @@ Supply Chain Management
 
 ---
 
-<!-- SKILLS ANIMATION - Cole isso em uma seção do seu README se quiser adicionar animação -->
-
+<!-- SKILLS MATRIX ATUALIZADA - Ferramentas gerais de dados -->
 <div align="center">
 
-## ⚡ Skills Matrix
+## ⚡ Data Engineering & Analytics Toolkit
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,vscode,jupyter,docker,linux,bash,aws,azure,gcp" />
+<img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,mongodb,redis,docker,kubernetes,github,gitlab,vscode,anaconda" />
+
+### Additional Tools & Technologies
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 </div>
 
@@ -275,13 +354,13 @@ I'm always interested in discussing:
 
 <div align="center">
 
-
-
 ### ⚡ "Turning supply chain complexity into competitive advantage through data"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=diogo-loureiro&color=brightgreen&style=for-the-badge)
 
 </div>
+
+---
 
 <!-- PINNED REPOSITORIES CARDS - Customize com seus repos -->
 <div align="center">
@@ -313,7 +392,7 @@ I'm always interested in discussing:
 
 ## 🐍 Contribution Snake
 
-!(https://github.com/diogo-loureiro/diogo-loureiro/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/diogo-loureiro/diogo-loureiro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
