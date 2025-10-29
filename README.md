@@ -237,6 +237,13 @@ Supply Chain Management
 
 ---
 
+## 🌍 Languages
+
+- 🇬🇧 **English:** Advanced (C1-C2)
+- 🇧🇷 **Portuguese:** Native
+- 🇪🇸 **Spanish:** Intermediate (B1)
+
+---
 <!-- SKILLS ANIMATION - Cole isso em uma seção do seu README se quiser adicionar animação -->
 
 <div align="center">
@@ -246,14 +253,6 @@ Supply Chain Management
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,vscode,jupyter,docker,linux,bash,aws,azure,gcp" />
 
 </div>
-
----
-
-## 🌍 Languages
-
-- 🇬🇧 **English:** Advanced (C1-C2)
-- 🇧🇷 **Portuguese:** Native
-- 🇪🇸 **Spanish:** Intermediate (B1)
 
 ---
 
