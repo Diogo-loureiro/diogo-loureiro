@@ -147,7 +147,7 @@ Advanced statistical and machine learning models for demand forecasting across m
 ### 📈 **Analytics Automation Framework**
 Python-based framework for automating data extraction, transformation, and reporting processes — reducing manual work by 70%+ while improving data accuracy.
 
-**Tech Stack:** Python (Pandas, NumPy), SQL, Power Query, Excel VBA, APIs
+**Tech Stack:** Python , SQL, Power Query, Excel VBA, APIs
 
 ---
 
@@ -283,40 +283,6 @@ I'm always interested in discussing:
 
 </div>
 
-
-<!-- Optional -->
-<!-- GITHUB STREAK STATS -->
-<div align="center">
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diogo-loureiro&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<!-- TROPHY SHOWCASE -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=diogo-loureiro&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<!-- METRICS EMBED - Requer GitHub Action setup -->
-<!-- 
-Para ativar métricas avançadas:
-1. Crie um token GitHub (Settings > Developer settings > Personal access tokens)
-2. Adicione aos secrets do repositório como METRICS_TOKEN
-3. Configure GitHub Actions com o arquivo abaixo
--->
-
----
-
 <!-- PINNED REPOSITORIES CARDS - Customize com seus repos -->
 <div align="center">
 
@@ -339,19 +305,6 @@ Para ativar métricas avançadas:
 </a>
 
 </div>
-
----
-
-<!-- WAKATIME STATS - Requer integração com Wakatime -->
-<!--
-<div align="center">
-
-## ⏱️ Weekly Coding Activity
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=diogo-loureiro&theme=radical&hide_border=true&layout=compact)
-
-</div>
--->
 
 ---
 
