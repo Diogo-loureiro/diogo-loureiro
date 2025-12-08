@@ -48,7 +48,7 @@ class AnalyticsEngineer:
 
     def expertise_areas(self):
         return {
-            "analytics_engineering": ["Data Modeling", "SQL", "ETL/ELT", "KPI Design"],
+            "analytics_engineering": ["Data Modeling", "SQL, DAX", "ETL/ELT", "KPI Design"],
             "analytics": ["Business Intelligence", "Statistical Modeling", "Predictive Analytics"],
             "ml_ai": ["Forecasting Models", "Time Series Analysis", "Feature Engineering"],
             "automation": ["Process Optimization", "Python Scripting", "VBA Automation"],
@@ -99,17 +99,10 @@ class AnalyticsEngineer:
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
+![Nixtla](https://img.shields.io/badge/Nixtla-Forecasting-3B82F6?style=for-the-badge)
 
 - Time series & forecasting with **Pandas, NumPy, scikit-learn and Nixtla’s Python ecosystem**
 - Visual analytics with **Power BI, Plotly, Matplotlib and Seaborn**
-
-<!-- Optional: add local logos for forecasting ecosystem.
-     Save SVG/PNG logos under assets/logos and adjust paths if needed. -->
-<p align="left">
-  <img src="assets/logos/nixtla.svg" alt="Nixtla" height="28" />
-  <img src="assets/logos/duckdb.svg" alt="DuckDB" height="28" />
-  <img src="assets/logos/polars.svg" alt="Polars" height="28" />
-</p>
 
 ---
 
@@ -121,20 +114,20 @@ class AnalyticsEngineer:
 
 ### 🔬 **Analytics Engineering**
 
-- Design and implement **end-to-end analytics solutions** for supply chain
-- Build and industrialize **forecasting and optimization models**
-- Develop and maintain **data pipelines** that feed reports, dashboards and forecasting engines
-- Define **data models and KPIs** that reflect how the business really operates
+- Design and implement **end-to-end analytics solutions** for supply chain  
+- Build and industrialize **forecasting and optimization models**  
+- Develop and maintain **data pipelines** that feed reports, dashboards and forecasting engines  
+- Define **data models and KPIs** that reflect how the business really operates  
 
 </td>
 <td width="50%">
 
 ### 🤖 **Automation & Optimization**
 
-- Automate repetitive data workflows and reporting
-- Optimize complex planning and replenishment processes
-- Build custom analytics tools and dashboards
-- Streamline data operations with **Python, SQL and DAX**
+- Automate repetitive data workflows and reporting  
+- Optimize complex planning and replenishment processes  
+- Build custom analytics tools and dashboards  
+- Streamline data operations with **Python, SQL and DAX**  
 
 </td>
 </tr>
@@ -143,20 +136,20 @@ class AnalyticsEngineer:
 
 ### 📊 **Business Intelligence**
 
-- Design executive and operational dashboards (Power BI, Tableau)
-- Transform raw data into **clear, actionable insights**
-- Implement KPI monitoring and performance management systems
-- Enable data-driven decision making across teams
+- Design executive and operational dashboards (Power BI, Tableau)  
+- Transform raw data into **clear, actionable insights**  
+- Implement KPI monitoring and performance management systems  
+- Enable data-driven decision making across teams  
 
 </td>
 <td width="50%">
 
 ### 🎯 **Supply Chain Analytics**
 
-- Demand forecasting & statistical modeling
-- Inventory optimization and service-level analysis
-- Supply chain performance analytics
-- S&OP process design and continuous improvement
+- Demand forecasting & statistical modeling  
+- Inventory optimization and service-level analysis  
+- Supply chain performance analytics  
+- S&OP process design and continuous improvement  
 
 </td>
 </tr>
@@ -202,10 +195,10 @@ Dashboard ecosystem covering forecasting, inventory, order fulfillment and compl
 
 I focus on **classical and time series machine learning** applied to real supply chain problems:
 
-- Demand forecasting and forecast bias monitoring
-- Time series feature engineering and model selection
-- Segmentation (ABC/XYZ) and portfolio analysis
-- Scenario and sensitivity analysis for planning
+- Demand forecasting and forecast bias monitoring  
+- Time series feature engineering and model selection  
+- Segmentation (ABC/XYZ) and portfolio analysis  
+- Scenario and sensitivity analysis for planning  
 
 ---
 
@@ -265,15 +258,15 @@ Supply Chain Management
 ## 🎓 Education & Certifications
 
 🎓 **MBA in Data Science and Analytics** — University of São Paulo (USP), 2023  
-🎓 **Bachelor in Business Administration** — Federal University of Sergipe (UFS), 2011
+🎓 **Bachelor in Business Administration** — Federal University of Sergipe (UFS), 2011  
 
 ---
 
 ## 🌍 Languages
 
-- 🇬🇧 **English:** Advanced (C1–C2)
-- 🇧🇷 **Portuguese:** Native
-- 🇪🇸 **Spanish:** Intermediate (B1)
+- 🇬🇧 **English:** Advanced (C1–C2)  
+- 🇧🇷 **Portuguese:** Native  
+- 🇪🇸 **Spanish:** Intermediate (B1)  
 
 ---
 
