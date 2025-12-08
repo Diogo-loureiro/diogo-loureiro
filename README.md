@@ -64,39 +64,43 @@ class AnalyticsEngineer:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge&logo=alteryx&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+
+> Daily stack: **Python, SQL, DAX, Power BI / Power Platform, Jupyter Notebooks** for supply chain analytics and forecasting.
+
+### 🧱 Data & Analytics Engineering
+
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-1F2933?style=for-the-badge&logo=prefect&logoColor=white)
+
+- **Modern analytics tooling:** DuckDB, Polars, Parquet, dbt  
+- **Orchestration & apps:** Prefect, FastAPI, Streamlit  
+- **Versioning & dev:** Git, GitHub, Docker  
+- **Cloud:** Working knowledge with AWS for analytics workloads
+
+### 📊 Data Science & Visualization
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🧱 Data & ML Engineering – Working Knowledge / Learning
-
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 🏢 Enterprise Systems
-
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+- Time series & forecasting with **Pandas, NumPy, scikit-learn and Nixtla’s Python ecosystem**
+- Visual analytics with **Power BI, Plotly, Matplotlib and Seaborn**
 
 ---
 
@@ -121,7 +125,7 @@ class AnalyticsEngineer:
 - Automate repetitive data workflows and reporting
 - Optimize complex planning and replenishment processes
 - Build custom analytics tools and dashboards
-- Streamline data operations with **Python & SQL**
+- Streamline data operations with **Python, SQL and DAX**
 
 </td>
 </tr>
@@ -165,7 +169,7 @@ Robust statistical and machine learning models for demand forecasting across mul
 
 Python-based framework for automating data extraction, transformation and reporting — reducing manual work while improving consistency and data quality.
 
-**Tech Stack:** Python, SQL, Power Query, Excel/VBA, APIs
+**Tech Stack:** Python, SQL, Power BI, Power Query, Excel/VBA, APIs
 
 ---
 
@@ -221,7 +225,6 @@ Supply Chain Management
 └── 🛠️ Systems & Implementation
     ├── ERP Integration (SAP, Oracle, JD Edwards)
     ├── Planning Systems (Logility, SAP APO/IBP, Oniqua)
-    👤
     ├── Custom Analytics Solutions
     └── Change Management & Training
 ```
@@ -269,7 +272,7 @@ Supply Chain Management
 
 ## ⚡ Skills Matrix
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,vscode,jupyter,docker,linux,bash,aws,azure,gcp" />
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,vscode,jupyter,docker,linux,bash,aws" />
 
 </div>
 
