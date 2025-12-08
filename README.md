@@ -66,6 +66,7 @@ class AnalyticsEngineer:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge&logo=alteryx&logoColor=white)
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -81,9 +82,9 @@ class AnalyticsEngineer:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Prefect](https://img.shields.io/badge/Prefect-1F2933?style=for-the-badge&logo=prefect&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 - **Modern analytics tooling:** DuckDB, Polars, Parquet, dbt  
 - **Orchestration & apps:** Prefect, FastAPI, Streamlit  
@@ -101,6 +102,14 @@ class AnalyticsEngineer:
 
 - Time series & forecasting with **Pandas, NumPy, scikit-learn and Nixtla’s Python ecosystem**
 - Visual analytics with **Power BI, Plotly, Matplotlib and Seaborn**
+
+<!-- Optional: add local logos for forecasting ecosystem.
+     Save SVG/PNG logos under assets/logos and adjust paths if needed. -->
+<p align="left">
+  <img src="assets/logos/nixtla.svg" alt="Nixtla" height="28" />
+  <img src="assets/logos/duckdb.svg" alt="DuckDB" height="28" />
+  <img src="assets/logos/polars.svg" alt="Polars" height="28" />
+</p>
 
 ---
 
