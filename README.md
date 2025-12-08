@@ -1,6 +1,6 @@
 <!-- TYPING SVG ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Analytics+Architect;14%2B+Years+in+Supply+Chain+Analytics;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Transforming+Data+into+Business+Value" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Analytics+Engineer+%7C+Supply+Chain+Analytics;14%2B+Years+in+Supply+Chain;Python+%7C+SQL+%7C+Power+BI;From+Data+to+Decisions" alt="Typing SVG" />
 </div>
 
 ---
@@ -9,7 +9,7 @@
 
 # 👋 Diogo Loureiro
 
-### Data-Driven Supply Chain Engineer | Analytics Architect | ML Enthusiast
+### Supply Chain Analytics Specialist | Analytics Engineer | ML Enthusiast
 
 *Transforming supply chain complexity into actionable intelligence through advanced analytics and automation*
 
@@ -23,30 +23,32 @@
 
 ## 🎯 About Me
 
-I'm a **data engineer specialized in supply chain optimization**, with 14+ years of international experience building predictive models, automation pipelines, and analytics solutions that drive measurable business impact.
+I'm an **analytics engineer and supply chain specialist** with 14+ years of international experience in forecasting, inventory and planning — building analytics solutions that drive measurable business impact.
 
-My expertise lies at the intersection of **data science, supply chain operations, and software engineering** — bridging the gap between complex business requirements and scalable technical solutions.
+I sit at the intersection of **advanced analytics, supply chain operations and software engineering** — bridging complex business requirements with scalable, data-driven solutions.
+
+Currently, I'm deepening my toolkit in **modern data & analytics engineering** (orchestration, data pipelines, lakehouse patterns) to increase the impact and scalability of the forecasting and optimization solutions I build.
 
 ```python
-class DataEngineer:
+class AnalyticsEngineer:
     def __init__(self):
         self.name = "Diogo Loureiro"
-        self.role = "Analytics Architect & Solution Consultant"
+        self.role = "Supply Chain Analytics Specialist & Solution Consultant"
         self.location = "Aracaju, Brazil 🇧🇷"
         self.experience_years = 14
-        
+
     def current_focus(self):
         return [
             "🔮 Predictive modeling for demand forecasting",
-            "🤖 Process automation & ETL pipelines",
+            "🤖 Automation of analytics & ETL workflows",
             "📊 Advanced analytics for inventory optimization",
             "🚀 End-to-end implementation of analytics solutions",
             "🧠 ML applications in supply chain planning"
         ]
-    
+
     def expertise_areas(self):
         return {
-            "data_engineering": ["ETL", "Data Pipelines", "Data Modeling", "SQL"],
+            "analytics_engineering": ["Data Modeling", "SQL", "ETL/ELT", "KPI Design"],
             "analytics": ["Business Intelligence", "Statistical Modeling", "Predictive Analytics"],
             "ml_ai": ["Forecasting Models", "Time Series Analysis", "Feature Engineering"],
             "automation": ["Process Optimization", "Python Scripting", "VBA Automation"],
@@ -58,45 +60,43 @@ class DataEngineer:
 
 ## 🛠️ Tech Stack
 
-### **Core Data Engineering & Analytics**
+### ⚙️ Core Analytics & Supply Chain Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### **Business Intelligence & Visualization**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge&logo=alteryx&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### **Machine Learning & Data Science**
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### **Cloud & Enterprise Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🧱 Data & ML Engineering – Working Knowledge / Learning
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-### **Enterprise Systems**
+### 🏢 Enterprise Systems
 
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -107,19 +107,21 @@ class DataEngineer:
 <td width="50%">
 
 ### 🔬 **Analytics Engineering**
-- Design and implement end-to-end analytics solutions
-- Build predictive models for forecasting and optimization
-- Develop ETL pipelines for data integration
-- Create scalable data architectures
+
+- Design and implement **end-to-end analytics solutions** for supply chain
+- Build and industrialize **forecasting and optimization models**
+- Develop and maintain **data pipelines** that feed reports, dashboards and forecasting engines
+- Define **data models and KPIs** that reflect how the business really operates
 
 </td>
 <td width="50%">
 
 ### 🤖 **Automation & Optimization**
-- Automate repetitive data workflows
-- Optimize complex planning processes
+
+- Automate repetitive data workflows and reporting
+- Optimize complex planning and replenishment processes
 - Build custom analytics tools and dashboards
-- Streamline data operations with Python & SQL
+- Streamline data operations with **Python & SQL**
 
 </td>
 </tr>
@@ -127,19 +129,21 @@ class DataEngineer:
 <td width="50%">
 
 ### 📊 **Business Intelligence**
-- Design executive-level dashboards (Power BI, Tableau)
-- Transform raw data into actionable insights
-- Implement KPI monitoring systems
-- Enable data-driven decision making
+
+- Design executive and operational dashboards (Power BI, Tableau)
+- Transform raw data into **clear, actionable insights**
+- Implement KPI monitoring and performance management systems
+- Enable data-driven decision making across teams
 
 </td>
 <td width="50%">
 
 ### 🎯 **Supply Chain Analytics**
+
 - Demand forecasting & statistical modeling
-- Inventory optimization algorithms
+- Inventory optimization and service-level analysis
 - Supply chain performance analytics
-- S&OP process improvement
+- S&OP process design and continuous improvement
 
 </td>
 </tr>
@@ -149,37 +153,52 @@ class DataEngineer:
 
 ## 🚀 Featured Projects & Capabilities
 
-### 🔮 **Forecasting & Predictive Modeling**
-Advanced statistical and machine learning models for demand forecasting across multiple industries, improving accuracy by 10-30% in 50+ implementations.
+### 🔮 Forecasting & Predictive Modeling
 
-**Key Techniques:** Time series analysis, ensemble methods, feature engineering, model validation, forecast reconciliation
+Robust statistical and machine learning models for demand forecasting across multiple industries, improving accuracy and reducing bias in planning processes.
 
----
-
-### 📈 **Analytics Automation Framework**
-Python-based framework for automating data extraction, transformation, and reporting processes — reducing manual work by 70%+ while improving data accuracy.
-
-**Tech Stack:** Python, SQL, Power Query, Excel VBA, APIs
+**Focus Areas:** Time series analysis, forecast accuracy & bias monitoring, feature engineering, model validation, scenario analysis
 
 ---
 
-### 🎯 **Inventory Optimization Engine**
-Multi-echelon inventory optimization system using stochastic modeling and simulation to balance service levels with carrying costs.
+### 📈 Analytics Automation Framework
 
-**Approach:** Statistical modeling, Monte Carlo simulation, optimization algorithms, scenario analysis
+Python-based framework for automating data extraction, transformation and reporting — reducing manual work while improving consistency and data quality.
+
+**Tech Stack:** Python, SQL, Power Query, Excel/VBA, APIs
 
 ---
 
-### 📊 **Supply Chain BI Suite**
-Comprehensive dashboard ecosystem covering forecasting, inventory, order fulfillment, and compliance metrics with real-time data integration.
+### 🎯 Inventory Optimization Engine
+
+Analytics and modeling to balance **service level vs. inventory** using statistical modeling and simulation.
+
+**Approach:** Safety stock modeling, Monte Carlo simulation, optimization heuristics, scenario analysis
+
+---
+
+### 📊 Supply Chain BI Suite
+
+Dashboard ecosystem covering forecasting, inventory, order fulfillment and compliance metrics with near real-time data integration.
 
 **Tools:** Power BI, Tableau, SQL, Python, REST APIs
 
 ---
 
+## 🧠 Machine Learning for Supply Chain
+
+I focus on **classical and time series machine learning** applied to real supply chain problems:
+
+- Demand forecasting and forecast bias monitoring
+- Time series feature engineering and model selection
+- Segmentation (ABC/XYZ) and portfolio analysis
+- Scenario and sensitivity analysis for planning
+
+---
+
 ## 📚 Domain Expertise
 
-```
+```text
 Supply Chain Management
 ├── 📦 Demand & Supply Planning
 │   ├── Statistical Forecasting
@@ -202,6 +221,7 @@ Supply Chain Management
 └── 🛠️ Systems & Implementation
     ├── ERP Integration (SAP, Oracle, JD Edwards)
     ├── Planning Systems (Logility, SAP APO/IBP, Oniqua)
+    👤
     ├── Custom Analytics Solutions
     └── Change Management & Training
 ```
@@ -239,12 +259,11 @@ Supply Chain Management
 
 ## 🌍 Languages
 
-- 🇬🇧 **English:** Advanced (C1-C2)
+- 🇬🇧 **English:** Advanced (C1–C2)
 - 🇧🇷 **Portuguese:** Native
 - 🇪🇸 **Spanish:** Intermediate (B1)
 
 ---
-<!-- SKILLS ANIMATION - Cole isso em uma seção do seu README se quiser adicionar animação -->
 
 <div align="center">
 
@@ -261,25 +280,27 @@ Supply Chain Management
 > "Data without action is just noise. My mission is to transform complex datasets into clear, actionable intelligence that drives real business outcomes."
 
 I believe in:
-- **🎯 Impact over output** — focusing on measurable business value
-- **🔬 Rigor in methodology** — ensuring statistical soundness and data quality
-- **🤝 Collaboration over silos** — bridging technical and business teams
-- **🚀 Continuous learning** — staying current with evolving technologies
-- **💡 Simplicity in complexity** — making sophisticated analytics accessible
+
+- **🎯 Impact over output** — focusing on measurable business value  
+- **🔬 Rigor in methodology** — ensuring statistical soundness and data quality  
+- **🤝 Collaboration over silos** — bridging technical and business teams  
+- **🚀 Continuous learning** — staying current with evolving technologies  
+- **💡 Simplicity in complexity** — making sophisticated analytics accessible  
 
 ---
 
 ## 📫 Let's Connect
 
 I'm always interested in discussing:
-- 🤝 Analytics & data engineering opportunities
-- 💼 Supply chain optimization challenges
-- 🚀 Innovative data science projects
-- 📚 Knowledge sharing & collaboration
 
-**📧 Email:** digopl@gmail.com  
+- 🤝 Analytics & data engineering opportunities  
+- 💼 Supply chain optimization challenges  
+- 🚀 Innovative data science projects  
+- 📚 Knowledge sharing & collaboration  
+
+**📧 Email:** [digopl@gmail.com](mailto:digopl@gmail.com)  
 **🔗 LinkedIn:** [linkedin.com/in/diogo-loureiro](https://www.linkedin.com/in/diogo-loureiro)  
-**📍 Location:** Aracaju, Brazil (open to remote opportunities worldwide)
+**📍 Location:** Aracaju, Brazil (open to remote opportunities worldwide)  
 
 ---
 
